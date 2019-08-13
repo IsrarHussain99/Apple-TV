@@ -1,0 +1,15 @@
+Brackets will contain actions
+Open 'Terminal' App on Mac
+
+
+(Type)
+ssh root@apple-tv.local
+(Press Enter)
+
+- When prompted for a password (with a lock icon) enter (The text typed will not be shown)
+
+'alpine' as password
+
+Once Connected the below will be shown.
+
+Apple-TV:~ root#
